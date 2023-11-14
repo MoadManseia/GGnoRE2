@@ -20,6 +20,12 @@ header {
   display: flex;
   justify-content: space-between;
 }
+h2 {
+  font-size: 42px;
+  color: rgb(220, 104, 106);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+}
 nav a {
   color: rgb(255, 255, 255);
   margin-right: 10px;
@@ -111,4 +117,8 @@ article {
   color: rgb(211, 211, 211);
   text-align: center;
   word-spacing: 18px;
+}
+footer {
+  color: white;
+  margin: 40px 20px;
 }
